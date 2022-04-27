@@ -2,7 +2,7 @@
 - 🧑‍🏭 I am currently searching for a job where I can code and learn extensively
 - 🧑‍🎓 In my free time, I [read](https://westleywinks.com/books) and learn
 - 📫 How to reach me: [Email](mailto://westleywinks@protonmail.com), [LinkedIn](https://www.linkedin.com/in/westley-winks/), [Discord](https://discordapp.com/users/664662599207485461), [Matrix](https://matrix.to/#/@westley-winks:matrix.org)
-- 💻 Check out my website: [Home](https://westleywinks.com, [Projects](https://westleywinks.com/projects), [Book List](https://westleywinks.com/books)
+- 💻 Check out my website: [Home](https://westleywinks.com), [Projects](https://westleywinks.com/projects), [Book List](https://westleywinks.com/books)
 - 🗞 Check out my newsletter: [Until It's Not Fun](https://untilitsnotfun.com)
 - 😄 Pronouns: he/him
 
